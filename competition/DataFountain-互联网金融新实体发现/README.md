@@ -1,4 +1,4 @@
-思路：
+baseline思路：
 
 参考https://github.com/ProHiryu/bert-chinese-ner
 
@@ -17,3 +17,9 @@ flags.DEFINE_bool("do_predict", False,"Whether to run the model in inference mod
 ```
 
 具体用法https://github.com/ProHiryu/bert-chinese-ner
+
+## Top选手分享
+
+第四名：https://github.com/rebornZH/2019-CCF-BDCI-NLP
+
+第五名：https://github.com/light8lee/2019-BDCI-FinancialEntityDiscovery
